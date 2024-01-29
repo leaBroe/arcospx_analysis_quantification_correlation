@@ -4,7 +4,7 @@
 This research project was done at the Pertz Lab, Institute of Cell Biology at the University of Bern. The aim of the project was to use the ARCOS algorithm (https://github.com/bgraedel/arcos4py.git) to detect actin polymerization waves, quantify them and calculate the cross correlation to myosin and rGBD channels in rat embryonic fibroblast cells (REF52). Another goal of the project was the development of ARCOSpx, an extension of the ARCOS algorithm, designed for the tracking and analysis of spatiotemporal correlations, that can convert images directly into tracked collective events. 
 
 ## Objectives
-- **Development of ARCOSpx Plugin**: Enhancing the ARCOS algorithm to convert images directly into tracked collective events.  
+- **Development of ARCOSpx Plugin**: Enhancing the ARCOS algorithm to convert images directly into tracked collective events. The plugin can be found at: [https://github.com/bgraedel/arcosPx-napari.git](https://github.com/bgraedel/arcosPx-napari.git) 
 - **Understanding Actin Dynamics**: Investigating the patterns, directionality, and regulation of actin polymerization waves in REF52 cells.  
 - **Elucidating RhoA's Role**: Exploring how RhoA functions as a negative regulator in the assembly and disassembly of these waves.  
 
