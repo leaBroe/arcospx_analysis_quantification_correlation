@@ -37,6 +37,3 @@ The previous analysis (carried out by Lucien Hinderling) is also in this reposit
 - **Actin Wave Characteristics**: Identified specific patterns in the movement of actin waves, predominantly moving towards the cell center.  
 - **RhoA's Regulatory Function**: The results support RhoA's role as a negative regulator, influencing the disassembly phases of actin polymerization waves.  
 - **Spatiotemporal Correlations**: Established correlations between the actin waves and myosin and rGBD channels, indicating potential regulatory mechanisms.  
-
-## Conclusion
-This project aimed to contribute to the broader understanding of actin polymerization dynamics in cellular signaling. It sought to highlight the potential complexities in the regulatory roles of proteins like RhoA within these processes.  
